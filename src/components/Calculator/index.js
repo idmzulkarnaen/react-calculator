@@ -9,6 +9,23 @@ export default function Calculator() {
             <Current>10</Current>
         </Screen>
         <Button></Button>
+        <Button></Button>
+        <Button></Button>
+        <Button></Button>
+        <Button></Button>
+        <Button></Button>
+        <Button></Button>
+        <Button></Button>
+        <Button></Button>
+        <Button></Button>
+        <Button></Button>
+        <Button></Button>
+        <Button></Button>
+        <Button></Button>
+        <Button></Button>
+        <Button></Button>
+        <Button></Button>
+        <Button></Button>
     </Container>
   );
 }
