@@ -8,6 +8,7 @@ export default function Calculator() {
             <Previous>10 +</Previous>
             <Current>10</Current>
         </Screen>
+        <Button gridSpan={2}>AC</Button>
         <Button></Button>
         <Button></Button>
         <Button></Button>
@@ -24,8 +25,7 @@ export default function Calculator() {
         <Button></Button>
         <Button></Button>
         <Button></Button>
-        <Button></Button>
-        <Button></Button>
+        <Button gridSpan={2}>=</Button>
     </Container>
   );
 }
