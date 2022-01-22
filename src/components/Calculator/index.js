@@ -10,19 +10,19 @@ export default function Calculator() {
         </Screen>
         <Button gridSpan={2}>AC</Button>
         <Button></Button>
+        <Button operation></Button>
         <Button></Button>
         <Button></Button>
         <Button></Button>
+        <Button operation></Button>
         <Button></Button>
         <Button></Button>
         <Button></Button>
+        <Button operation></Button>
         <Button></Button>
         <Button></Button>
         <Button></Button>
-        <Button></Button>
-        <Button></Button>
-        <Button></Button>
-        <Button></Button>
+        <Button operation></Button>
         <Button></Button>
         <Button></Button>
         <Button gridSpan={2}>=</Button>

@@ -51,4 +51,6 @@ export const Button = styled.button`
         }
     }}
 
+    ${({gridSpan}) => gridSpan && `grid-column: span ${gridSpan};`}
+    ${({operation}) => operation && `background-color: gray;`}
 `
