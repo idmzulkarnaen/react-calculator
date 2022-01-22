@@ -1,5 +1,5 @@
 import React from 'react';
-import {Container, Screen, Previous, Current} from './Styled'
+import {Container, Screen, Previous, Current, Button} from './Styled'
 
 export default function Calculator() {
   return (
@@ -8,6 +8,7 @@ export default function Calculator() {
             <Previous>10 +</Previous>
             <Current>10</Current>
         </Screen>
+        <Button></Button>
     </Container>
   );
 }
